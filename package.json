@@ -1,7 +1,7 @@
 {
     "name": "jp.yamatora.scrcam",
     "author": "yamatora",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "scrcam",
     "description": "for Windows",
     "unity": "2020.3"
